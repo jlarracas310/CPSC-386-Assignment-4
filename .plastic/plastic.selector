@@ -1,0 +1,4 @@
+repository "CPSC 386 Assignment 1@joshrod3100@cloud"
+  path "/"
+    br "/main"
+    co "/main"
